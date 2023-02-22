@@ -1,6 +1,6 @@
 # Proiect_BD
 
-Proiect Baze de date 
+Proiect Baze de date - Anul 2 Semestrul 1
 
 Baza de date are rolul de a pastra informatii despre jocuri si persoanele care au terminat unul sau mai multe jocuri dar si informatii despre joc si firmele care l-au dezvoltat
 
